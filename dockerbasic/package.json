@@ -1,0 +1,14 @@
+{
+  "name": "docker-1",
+  "version": "1.0.0",
+  "description": "nodejs on docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "author": "hemant",
+  "license": "ISC"
+}
